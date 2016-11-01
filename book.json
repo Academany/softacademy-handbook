@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "youtube",
+        "atoc",
+        "back-to-top-button",
+        "flex-images"
+    ]
+
+}
