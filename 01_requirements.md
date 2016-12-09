@@ -9,14 +9,21 @@ Your lab MUST be equipped with the ALL necessary machines and other supplies to 
 As this is a bleeding edge program, and inventory specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: the [Soft Academy Lab Inventory](https://docs.google.com/spreadsheets/d/1TvBthCZPWZrIqn_Ew0iTUXM_QmK9HLjZkhyg8D-4SXM/edit?usp=sharing)
 
 ## Necessary Equipment 
+Bold is mandatory
 
-- Laser cutter
-
-- Sewing machines
-
-- Embrodery machine
-
-- ...
+- **3D Printer / Laser cutter / Molding and casting/ cnc milling / materials / Composites / Electronics equipment**
+- Basic biolab
+- Sewing machine industrial normal
+- Sewing machine industrial overlock
+- **Sewing machine small digital**
+- Knitting machine
+- Knitting machine electroloom
+- Fab Loom
+- **Soft actuators - e-textiles (conductive threads, conductive fabrics, mini vibration motors…)**
+- **Scissors- threads, yarns, natural fibers**
+- **Big working tables ( as fashion schools)**
+- Roland Tex-art dye sublimation printer
+- Embroidery machine
 
 ## Necessary Supplies
 
