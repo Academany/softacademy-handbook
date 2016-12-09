@@ -41,22 +41,22 @@ Implications and Applications
 
 **TASK: Health, prosthetics, wearables for space, sports, energy harvesting fabrics, haute couture,performative arts, embodied interaction**
 
-## Class 9  -  Mika Satomi
+## Class 9 
 E-textiles and wearables II
 
 **TASK: Inputs and Outputs**
 
-## Class 10  -  Issey Miyake
+## Class 10 
 Digital Craftsman
 
 **TASK: work with a craftsman, study his production cycle and implement technology into one of its steps, shoe making, accessories**
 
-## Class 11  -  Neil Gershenfeld
+## Class 11 
 Next Human, on Singularity
 
 **TASK: Future scenarios and critical thinking on technology**
 
-## Class 12  -  Neil Gershenfeld / Brian Krzanich, Intel CEO
+## Class 12
 Final Presentations
 
 **TASK: Present the project you want to develop in the next 3months.**
