@@ -54,19 +54,19 @@ Similarly, make sure that your camera is on and that all class participants are 
 
 As previously noted with regards to video conferencing, etiquette should also be observed in email conversations. Several email lists exist in order to make communication between the different groups within the Fab Academy structure easier and more organised.
 
-**class[year]@fabacademy.org**
+**class[year]@softacademy.org**
 
 This is an email alias shared by all current Fab Academy students. [class14@fabacademy.org](mailto:class14@fabacademy.org) is for the 2014 class, [class15@fabacademy.org](mailto:class15@fabacademy.org) for 2015, etc.
 
-**instruct@fabacademy.org**
+**instruct@softacademy.org**
 
 This is an email alias shared by all current Fab Academy Instructors.
 
-**globaleval@fabacademy.org**
+**globaleval@softacademy.org**
 
 This is the email alias for the Global Evaluation Committee tasked with grading.
 
-**alumni@fabacademy.org**
+**alumni@softacademy.org**
 
 This is an email alias onto which all graduates are entered upon completing Fab Academy.
 
