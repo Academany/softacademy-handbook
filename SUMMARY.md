@@ -8,4 +8,3 @@
 * [Accepted Sites: Getting started](05_accepted_sites.md)
 * [Grading and Final evaluation](06_evaluation.md)
 
-Test
