@@ -8,7 +8,7 @@
 
 * If the [Local Instructor]() is new (first year as an instructor), they are officially assigned to and being mentored by a Remote Guru.
 
-* Local instructors will attend prep meetings each week at 08:30 EST
+* Local instructors will attend prep meetings each week half an hour before lecture
 
 ) (comprised of students and instructors) will attend lecture together from the local lab every Wednesday at 09:00 EST and recitations on Mondays 09:00 EST.
 
