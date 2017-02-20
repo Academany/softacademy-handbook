@@ -1,12 +1,12 @@
 # New and aspiring sites: Basic requirements
 
-## Basic Requirements for Soft Academy Participation
+## Basic Requirements for Textile Academy Participation
 
-Here are the basic requirements and expectations for any lab that wishes to participate in the the Soft Academy course.
+Here are the basic requirements and expectations for any lab that wishes to participate in the the Textile Academy course.
 
 Your lab MUST be equipped with the ALL necessary machines and other supplies to be able to participate in the Academy. Labs that are not properly equipped are not eligible to participate in the Academy, as the students will not be able to complete the course.
 
-As this is a bleeding edge program, and inventory specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: the [Soft Academy Lab Inventory](https://docs.google.com/spreadsheets/d/1TvBthCZPWZrIqn_Ew0iTUXM_QmK9HLjZkhyg8D-4SXM/edit?usp=sharing)
+As this is a bleeding edge program, and inventory specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: the [Textile Academy Lab Inventory](https://docs.google.com/spreadsheets/d/1TvBthCZPWZrIqn_Ew0iTUXM_QmK9HLjZkhyg8D-4SXM/edit?usp=sharing)
 
 ## Necessary Equipment 
 Bold is mandatory
