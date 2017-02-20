@@ -1,6 +1,6 @@
 # Bootcamp
 
-Each year a bootcamp will be held as an intensive course for interested instructors planning to teach the Soft Fabrication Academy at their Lab.
+Each year a bootcamp will be held as an intensive course for interested instructors planning to teach the Textile Fabrication Academy at their Lab.
 
 ## Training Program
 
