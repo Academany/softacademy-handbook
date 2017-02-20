@@ -1,6 +1,6 @@
-# Basic Soft academy course info
+# Basic Textile academy course info
 
-Soft Academy is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry and the upcoming wearable market.  
+Textile Academy is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry and the upcoming wearable market.  
 The two phase program will last 6 months, with approximately 3 months of seminars and learning modules and three months focusing on individual in depth applied project research.
 
 The fashion industry is one of the most traditional and the 2nd most polluting in the world after oil. Today 20% of water pollution globally is caused by textile processing and consumers worldwide spent US$1.7 trillion on clothing in 2014. The production of the clothes we use is sustained over devastating social consequences in countries like Bangladesh and China, where labour exploitation holds the low prices we love to pay in H&M, Zara and other fast fashion brands. 
