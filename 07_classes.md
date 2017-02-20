@@ -51,12 +51,20 @@ Digital Craftsman
 
 **TASK: work with a craftsman, study his production cycle and implement technology into one of its steps, shoe making, accessories**
 
-## Class 11 
+
+## Class 11
+Soft robotics and inflatables
+
+## Class 12
+Skin Electronics
+
+## Class 13
 Next Human, on Singularity
 
 **TASK: Future scenarios and critical thinking on technology**
 
-## Class 12
-Final Presentations
+## Final Class 
+
+Final Presentations 
 
 **TASK: Present the project you want to develop in the next 3months.**
