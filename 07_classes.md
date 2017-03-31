@@ -1,6 +1,6 @@
 # Classes
 
-## Class 1 
+## [Class 1](./classes/digital_human)
 Digital Human. Digitizing the self
 
 **TASK: use software (make human, scanning, 3d modeling to obtain the body and a digital fabrication process to produce it (the production happens in groups of 3-4)**
