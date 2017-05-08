@@ -4,7 +4,7 @@
 * [Basic Textile academy course info](02_basic_info.md)
 * [Textile Academy Bootcamp](08_bootcamp.md)
 * [Classes](07_classes.md)
-  * [Class 1: Indroduction](./classes/00_intro.md)
+  * [Class 1: Introduction](./classes/00_intro.md)
   * [Class 2: Digital Bodies](./classes/01_digital_human.md)
   * [Class 3: Circular Open Source Fashion](./classes/02_circular_fashion.md)
   * [Class 4: Bio dyes & Biofabrics](./classes/03_biofabrics.md)
