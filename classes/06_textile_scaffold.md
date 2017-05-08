@@ -1,4 +1,4 @@
-# Class 3 - The Textile Scaffold
+# Class 6 - The Textile Scaffold
 
 07-11-2017
 
