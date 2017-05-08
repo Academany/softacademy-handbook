@@ -58,7 +58,7 @@ This class will focus on exploring material and colouring alternatives to the cu
 
 - bio -plastics -resins -silicones
   - gelatine
-  -   - starch
+  - starch
   - glycerine
   - water
   - vinegar
