@@ -17,7 +17,7 @@ The Textile scaffold
 **TASK: use textiles for composites, polymerisation, UV solidification, concrete casting, crystallization, biocomposites**
 
 ## Class 4 
-Biofabrics
+Biofabricating dyes & materials
 
 **TASK: DIY materials (bacteria dying/ biocouture/ bioplastics/ natural dying/ fruit leather)**
 
