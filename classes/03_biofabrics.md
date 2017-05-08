@@ -1,4 +1,4 @@
-#Class 4 Bio dyes & Biofabrics
+#Class 4 Biofabricating dyes & materials
 
 17-10-2017
 
@@ -29,7 +29,42 @@ This class will focus on exploring material and colouring alternatives to the cu
 
 **Materials**
 
-- Bill of materials
+- natural dyes:
+  - madder root
+  - alkanet roots
+  - turmeric roots powder
+  - hibiscus flowers
+  - onion peels
+  - campeche wood
+  - weld plant
+  - annatto seeds
+  - mordants/scouring agents:
+  - alum & cream of tartar
+  - copper liquor - copper pipes+vinegar or in crystals form
+  - iron liquor - rusty irons+vinegar or in crystals form
+  - Na2Co3 (sodium carbonate)
+- ph modifiers
+  - acids: vinegar, lemon
+  - base: sodium carbonate
+- Bacterial dyes
+  - janthinobacterium lividum
+  - Serratia (bio safety lvl 2) - ONLY if you have a biolab environment and are prepared to use biosafety lvl 2 organisms
+  - micrococcus luteus
+  - LB Broth & Nutrient agar
+  - animal fibers/textiles 
+  - wool, silk, camel hair, angora 
+  - vegetable fibers/textiles
+  - cotton, linen, hemp, ramie
+
+- bio -plastics -resins -silicones
+  - gelatine
+  - starch
+  - glycerine
+  - water
+  - vinegar
+  - pigments
+
+
 
 **Assignment**
 
