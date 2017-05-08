@@ -1,4 +1,4 @@
-# Basic Textile academy course info
+# Basic course info
 
 Textile Academy is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry and the upcoming wearable market.  
 The two phase program will last 6 months, with approximately 3 months of seminars and learning modules and three months focusing on individual in depth applied project research.
