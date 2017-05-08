@@ -19,15 +19,16 @@ This class focuses on exploring techniques and applications of technical textile
 **Materials**
 
 - Ecoflex
-- Borax
+- Borax, salt, 
 - UV resin
 - Concrete
 
 **Assignment**
 
-Each student can use a different technique to make a prototype of a technical textile application
+Each student can use a different technique to make a prototype of a technical textile application.
 
 **How will it be evaluated?**
 
 - Documentation on webpage and physical prototype.
+- record the process and make a stop motion.
 
