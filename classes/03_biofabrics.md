@@ -1,5 +1,9 @@
 #Class 4 Bio dyes & Biofabrics
 
+17-10-2017
+
+Cecilia Raspanti
+
 The textile industry is one of the most polluting in the world, in which one the most environmentally disastrous processes is the dyeing of fibers and textiles of the clothes we wear. Chemicals are released daily in rivers and nature destroying the environment around us to satisfy the colour demands that we create as designers, industry and consumers. Very few options are being explored in this fast changing fashion, clothing and textile industry, and the list of chemical treatments is only expanding.
 
 This class will focus on exploring material and colouring alternatives to the current ones. Ranging from natural dyes, using pigments and bacteria, to material biofabrication. Local recipes of DIY materials

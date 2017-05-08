@@ -1,4 +1,4 @@
-# Class 3: Circular Fashion
+# Class 3: Circular Open Source Fashion
 
 10-10-2017
 
