@@ -2,7 +2,7 @@
 
 31th October  2017
 
-Mika Satomi, http://www.kobakant.at/DIY/
+
 
 This class focuses on exploring how we can produce soft circuits and sensors, to embed them into garments and wearables, using soft circuits and soft actuators.
 We will start with an overview of materials, components, tools and projects.
@@ -38,7 +38,7 @@ We will start with an overview of materials, components, tools and projects.
 
 ** Materials **
 
-- http://www.kobakant.at/DIY/?cat=24
+
 
 ** Machines/tools **
 
