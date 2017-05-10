@@ -2,7 +2,6 @@
 
 21-11-2017
 
-Hannah Perner-Wilson
 
 This second class on the topic of wearables and e-textiles will provide a more advanced coverage on soft sensors and actuators.
 
