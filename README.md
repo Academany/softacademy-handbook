@@ -1,3 +1,8 @@
+**DEPRECATED**
+
+For the latest version check [[http://fabricademy.fabcloud.io/handbook]]
+
+
 # Textile Academy Handbook
 
 A resource for Students, Local Instructors, New (and old) Labs and Gurus alike
