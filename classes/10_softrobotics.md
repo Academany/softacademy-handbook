@@ -14,16 +14,15 @@ Artificial muscles
 Actuation mechanisms: pneumatics, electricity, thermal
 Molding and casting
 
+**Materials**
 
-
-** Materials ** 
 Silicone rubber mold, 3D printer, heat sealable materials, pneumatic pump.
 
 
-** Assignment **
+**Assignment**
  
 Create a pneumatic soft actuated device: if you are experienced with casting soft materials, focus on developing gripper using new materials, new designs and even new actuation mechanisms.
 
 
-** How it will be evaluated **
+**How it will be evaluated**
 
